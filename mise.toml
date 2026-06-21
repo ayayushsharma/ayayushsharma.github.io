@@ -1,0 +1,4 @@
+[tools]
+"npm:live-server" = "latest"
+opencode = "latest"
+prettier = "latest"
