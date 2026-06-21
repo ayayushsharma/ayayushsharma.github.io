@@ -100,3 +100,20 @@ ul {
 ul li {
     margin-bottom: 0.5rem;
 }
+
+@media (max-width: 600px) {
+    body {
+        font-size: 2.5rem;
+        padding: 1.25rem 0.75rem;
+    }
+    nav ul {
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-size: 1.15rem;
+    }
+}
